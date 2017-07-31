@@ -26,5 +26,3 @@ def left():
 def right():
     global direction 
     direction = RIGHT
-
-print (UP)
